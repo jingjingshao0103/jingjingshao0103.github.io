@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Jingjing's Website!"
+title: "Welcome to Jingjing's Homepage!"
 author_profile: true
 redirect_from: 
   - /about/
