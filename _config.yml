@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Jingjing's Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Jingjing"
 description              : &description "personal description"
 url                      : https://jingjingshao0103.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ author:
   avatar           : "jingjingshao.png"
   name             : "Jingjing Shao"
   pronouns         : # example: "she/her"  
-  bio              : "compuational chemsistry expert🦸‍♀️\n ashtanga yoga practioner🧘🏻‍♀️\n tango lover💃🏻"
+  bio              : "compuational chemistry expert🦸‍♀️\n""ashtanga yoga practioner🧘🏻‍♀️\n""tango lover💃🏻"
   location         : "Shanghai, China"
   employer         : "Covestro AG"
   uri              : # URL
