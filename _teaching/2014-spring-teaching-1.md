@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assistant"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate/Master course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Freie University Berlin, Chemistry"
 date: Sept 2018 - March 2022
