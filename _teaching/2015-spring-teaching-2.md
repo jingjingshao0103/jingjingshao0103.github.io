@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Jing's Yoga Lab"
-date: 2024
+date: 2016 - 2024
 location: "Berlin, Germany/Shanghai, China"
 ---
 
