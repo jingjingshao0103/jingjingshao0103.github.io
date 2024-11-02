@@ -1,13 +1,16 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to Jingjing's Website!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+I am a computational chemistry experts in the Covestro Digital R&D (DRD) Team located in APAC region. I received my Doctorate degree (Dr. rer. nat) in the department of Theoretical Chemistry from Freie Universität Berlin in late 2021. After graduation, I conducted postdoctoral research continuously under the supervision of Prof.  Dr. Beate Paulus. My research interests focus on the electronic structures as well as the transport properties of novel materials. I have a broad knowledge of different computational methods, ranging from periodic and molecular electronic structure calculations (both DFT and wavefunction-based methods) to transport calculations and the evaluation of excitonic properties with GW-BSE. In addition, I am dedicated to the method development of local current analysis based on Non-Equilibrium Green’s Function as well as automated workflows for quantum chemistry calculations. 
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I have published 8 articles in scientific journals such as The Journal of Physical Chemistry C (JPCC), Journal of Computational Chemistry (JCC), The Journal 
+of Chemical Physics (JCC) and Journal of the American Chemical Society(JACS).
+
 
 Jingjing's personal website
 ======
