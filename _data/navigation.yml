@@ -19,7 +19,7 @@ main:
   #  url: /portfolio/
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: /posts/
     
   - title: "CV"
     url: /files/Jingjing_Shao_CV_2024.pdf
