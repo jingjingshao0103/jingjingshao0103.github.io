@@ -2,9 +2,9 @@
 title: "Yoga Instructor"
 collection: teaching
 type: "Yoga classes"
-permalink: /teaching/2015-spring-teaching-1
-venue: "Jing's Yoga Lab"
-date: 2016 - current
+permalink: /teaching/2015-spring-teaching-2
+venue: "The Jing's Yoga Lab"
+date: Sept 2018 - March 2022
 location: "Berlin, Germany/Shanghai, China"
 ---
 
