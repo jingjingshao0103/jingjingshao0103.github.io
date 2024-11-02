@@ -12,8 +12,8 @@ I am a passionate yoga instructor with over 20 years of experience in various da
 
 The scientific effects of yoga, which I perceive as magical, motivated me to pursue teacher training. In March 2016, I completed my first yoga teacher training at the Lily Pod Yoga & Ayurveda School, becoming a certified instructor.
 
-Shortly after my training, I was invited to teach at the Lululemon Showroom West, where I conduct classes regularly. I have received very positive feedback for integrating my dance experience, scientific insights, and Ayurvedic approaches into my teaching. My current focus in yoga is on the role of individual anatomy and Vinyasa Dynamic Flow, in which I continuously seek further education.
+Shortly after my training, I was invited to teach at the Lululemon Showroom West, where I conduct classes regularly. I have received very positive feedback for integrating my dance experience, scientific insights, and Ayurvedic approaches into my teaching. My current focus in yoga is on the role of individual anatomy, Vinyasa Dynamic Flow and internal commitment, in which I continuously seek further education.
 
-In addition to teaching yoga, I am compuational chemist working for Covestro AG. Drawing on my rich experiences in dance and the scientific aspects of yoga, I offer unique classes that reflect my passion.
+In addition to teaching yoga, I work as compuational chemist working for Covestro AG. Drawing on my rich experiences in dance and the scientific aspects of yoga, I offer unique classes that reflect my passion.
 
-"Combining breath with movement, slowing down the process of reaching a certain posture. My Vinyasa flow class encourages awareness of your body and fosters a deeper understanding of your inner self. It’s about expressing the posture with your own anatomy, rather than trying to fit your body into a specific form. Embrace the journey, but take the time to listen to what your body is telling you."
+"Combining the breath with movement, slowing down the process of reaching a certain posture. My Vinyasa flow class encourages awareness of the body and fosters a deeper understanding of the inner self. It’s about expressing the posture with your own anatomy, rather than trying to fit the body into a specific form. Embrace the journey, and take the time to listen to what your body is telling you."
