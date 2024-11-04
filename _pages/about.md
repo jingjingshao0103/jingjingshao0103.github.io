@@ -15,12 +15,7 @@ of Chemical Physics (JCC) and Journal of the American Chemical Society(JACS).
 Newest Blog Post
 ======
 
-Oh, that space!
+To be or not to be?<br>
+The world moves through time, but time itself is unaffected
 
-Like everyone else, we are all busy with living: work, meetings, friends, hobbies, fitness, love, family, food—all these elements fill our time, bringing us joy and companionship, yet at the same time, they consume the precious space—the emptiness, the nothingness—that holds the potential to be filled anew.
-Yesterday, a typhoon passed through Shanghai, and we were like little kids, staying home and waiting for the storm to arrive. It was also the first day in a month that I had enough time at home to enjoy tea, free from obligations and the need to go anywhere else.
-Honestly, it was such a relief not to have to do anything nor entertain anyone in my presence. I had ample time to cook for myself and tidy up my little apartment. It wasn’t a feeling of exhilaration, but rather a profound sense of contentment.
-Meanwhile, thoughts and feelings began to surface. I realized there were books I wanted to read, an article I wanted to write, a website I wanted to set up, and experiences I hadn’t taken the time to process—things that matter to me, yet have been pushed aside by the demands of daily life.
-It was a day of staying home—a kind of home meditation—where space is created and what truly matters are allowed to enter that emptiness.
-
-How important is that space? It feels like a gentle reminder to pause, to breathe, and to reconnect.
+The world moves through time, but time itself remains unaffected—a constant, forward-moving axis. We, however, are in a perpetual state of motion within it—caught in the flow of events, decisions, and tasks that often feel overwhelming. As we strive to achieve our goals, investing our precious time and energy into various activities, we sometimes find ourselves questioning the value of our efforts. Some endeavors yield little to no results, while others end in failure. Naturally, we ask: Why should I try again? And if I do, how do I navigate a world full of distractions and infinite possibilities?
