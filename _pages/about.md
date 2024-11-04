@@ -15,7 +15,6 @@ of Chemical Physics (JCC) and Journal of the American Chemical Society(JACS).
 Newest Blog Post
 ======
 
-To be or not to be?<br>
-The world moves through time, but time itself is unaffected
+### **The world moves through time, but time itself is unaffected**
 
 The world moves through time, but time itself remains unaffected—a constant, forward-moving axis. We, however, are in a perpetual state of motion within it—caught in the flow of events, decisions, and tasks that often feel overwhelming. As we strive to achieve our goals, investing our precious time and energy into various activities, we sometimes find ourselves questioning the value of our efforts. Some endeavors yield little to no results, while others end in failure. Naturally, we ask: Why should I try again? And if I do, how do I navigate a world full of distractions and infinite possibilities?
